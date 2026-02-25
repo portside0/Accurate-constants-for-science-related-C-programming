@@ -27,7 +27,7 @@ static const double ep0 = 8.8541878188E-12; // vacuum electric permeability
 static const double me = 9.1093837139E-31; // mass of electron
 static const double mp = 1.67262192525E-27; // mass of proton
 static const double mn = 1.67492750056E-27; // mass of neutron
-
+static const double G = 6.67430E-11; // Gravitational constant 
 #endif
 
 
