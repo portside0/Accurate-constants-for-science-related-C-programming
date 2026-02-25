@@ -9,7 +9,7 @@ static const double ln2 = 0.69314718055994530942;
 static const double ln10 = 2.30258509299404568402;
 static const double sqrt2 = 1.41421356237309504880;
 static const double phi = 1.61803398875; //golden ratio
-static const double tau = 6.28318530717958647692 //2 * pi
+static const double tau = 6.28318530717958647692; //2 * pi
 
 /*
 Physical costants 
